@@ -1,0 +1,13 @@
+{
+  "item.enchantment_overhaul.polished_lapis_lazuli": "Polished lapis lazuli",
+  "item.enchantment_overhaul.polished_lapis_lazuli.tooltip": "Used to make other runes.",
+  "item.enchantment_overhaul.rune_enchant": "Rune of enchanting",
+  "item.enchantment_overhaul.rune_enchant.tooltip": "Adds one enchantment to item in enchanting table.",
+  "item.enchantment_overhaul.rune_levelup": "Rune of raising",
+  "item.enchantment_overhaul.rune_levelup.tooltip": "Upgrades one if item's enchantments in enchanting table.",
+  "item.enchantment_overhaul.rune_remove": "Rune of disintegration",
+  "item.enchantment_overhaul.rune_remove.tooltip": "Removes one enchantment from item in enchanting table.",
+  "item.enchantment_overhaul.rune_chaos": "Rune of abyss",
+  "item.enchantment_overhaul.rune_chaos.tooltip.1": "Enchants item with one curse and some powerful enchantments.",
+  "item.enchantment_overhaul.rune_chaos.tooltip.2": "Cannot be applied to already enchanted item."
+}

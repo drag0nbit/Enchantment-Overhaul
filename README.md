@@ -18,7 +18,7 @@ Soon there will be:
 - New curses that will ruin your weapon (or will it?)
 - Slightly reworked Mending: now it is rare and can be only obtained in enchanting table
 - Anvil repair/rename xp cost that never changes no matter of enchantments you put in it
-- Edited villagers trades that have low enchantments
+- Edited villagers trades that have low enchantments now
 - Particles to some enchantments like flame trail to arrows
 - Fully configurable config that you can disable and enable whatever this mod edits
 - Sync config between server and client, so you don't need to do it manually 

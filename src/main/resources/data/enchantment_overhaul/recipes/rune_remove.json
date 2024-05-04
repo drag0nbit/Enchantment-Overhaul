@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BLB",
+    "BBB"
+  ],
+  "key": {
+    "L": {
+      "item": "enchantment_overhaul:polished_lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "enchantment_overhaul:rune_remove"
+  },
+  "show_notification": true
+}

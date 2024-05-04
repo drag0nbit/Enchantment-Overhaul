@@ -4,15 +4,24 @@
   "version": "${version}",
 
   "name": "Enchantment Overhaul",
-  "description": "",
+  "description": "Yes",
   "authors": [],
-  "contact": {},
+  "contact": {
+    "repo": "https://github.com/drag0nbit/Enchantment-Overhaul"
+  },
 
   "license": "MIT",
   "icon": "assets/enchantment_overhaul/icon.png",
 
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "client": [
+      "com.corruptedbyte.enchantment_overhaul.client.EnchantmentOverhaulClient"
+    ],
+    "main": [
+      "com.corruptedbyte.enchantment_overhaul.EnchantmentOverhaul"
+    ]
+  },
 
       "mixins": [
         "enchantment_overhaul.mixins.json"

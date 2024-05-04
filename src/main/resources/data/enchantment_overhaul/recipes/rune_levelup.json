@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GB ",
+    "BLB",
+    " BG"
+  ],
+  "key": {
+    "L": {
+      "item": "enchantment_overhaul:polished_lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "enchantment_overhaul:rune_levelup"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,13 @@
+{
+  "item.enchantment_overhaul.polished_lapis_lazuli": "Полированный лазурит",
+  "item.enchantment_overhaul.polished_lapis_lazuli.tooltip": "Используется для создания других рун.",
+  "item.enchantment_overhaul.rune_enchant": "Руна зачарования",
+  "item.enchantment_overhaul.rune_enchant.tooltip": "Добавляет одно зачаровние предмету на столе зачарований.",
+  "item.enchantment_overhaul.rune_levelup": "Руна возвышения",
+  "item.enchantment_overhaul.rune_levelup.tooltip": "Улучшает одно зачаровние предмета на столе зачарований.",
+  "item.enchantment_overhaul.rune_remove": "Руна распада",
+  "item.enchantment_overhaul.rune_remove.tooltip": "Убирает одно зачаровние предмета на столе зачарований.",
+  "item.enchantment_overhaul.rune_chaos": "Руна пустоты",
+  "item.enchantment_overhaul.rune_chaos.tooltip.1": "Зачаровывает предмет одним проклятьем и несколькими мощными зачарованиями.",
+  "item.enchantment_overhaul.rune_chaos.tooltip.2": "Не может быть применено к уже зачарованному предмету."
+}

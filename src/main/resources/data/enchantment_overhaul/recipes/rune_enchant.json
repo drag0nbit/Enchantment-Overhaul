@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " BG",
+    "BLB",
+    "GB "
+  ],
+  "key": {
+    "L": {
+      "item": "enchantment_overhaul:polished_lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:emerald"
+    },
+    "G": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "enchantment_overhaul:rune_enchant"
+  },
+  "show_notification": true
+}
